@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Fix xyxyxyxyn calculation in obb result (#8188)
